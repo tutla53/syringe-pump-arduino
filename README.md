@@ -9,6 +9,13 @@ However, a vacuum pump is relatively expensive for the small capacity (e.g. 10 -
 Therefore, to resolve the problem with the vacuum pump, this repository will show the tutorial to build low-cost vacuum degassing machine with 50 ml syringe and a stepper motor that will be controlled by Arduino.
 
 ## System Design
+<p align="center">
+<img
+  src="https://github.com/tutla53/syringe-pump-arduino/blob/master/img/design-concept.jpg"
+  alt="syringe pump"
+  title="Syringe Pump Design"
+  style="display: inline-block; margin: 0 auto; width: 600px">
+</p>
 
 
 
