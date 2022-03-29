@@ -8,3 +8,6 @@ as in the following example from [smooth-on](https://www.smooth-on.com/tutorials
 However, a vacuum pump is relatively expensive for the small capacity (e.g. 10 - 20 ml) of silicone moulding, with an estimated price of around £1100. 
 Therefore, to resolve the problem with the vacuum pump, this repository will show the tutorial to build low-cost vacuum degassing machine with 50 ml syringe and a stepper motor that 
 will be controlled by Arduino.
+
+## Working Principle
+
