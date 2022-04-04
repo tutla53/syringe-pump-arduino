@@ -1,5 +1,7 @@
 # Syringe Pump for Vacuum Degassing Process of Silicone Moulding
-
+***
+This repository is associated with the research collaboration program between Imperial College London and Institut Teknologi Bandung in the field of `affordable medical devices` based on `soft robotics`.
+***
 ## Introduction
 
 The degassing process is one of the essential processes in silicone moulding to eliminate entrapped air and remove bubbles from the silicone. 
