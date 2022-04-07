@@ -1,6 +1,6 @@
 # Syringe Pump for Vacuum Degassing Process of Silicone Moulding
 ***
-This repository is associated with the research collaboration program between Imperial College London and Institut Teknologi Bandung in the field of `affordable medical devices` based on `soft robotics`.
+This repository is associated with the research collaboration program between `Imperial College London` and `Institut Teknologi Bandung` in the field of affordable medical devices based on soft robotics.
 ***
 ## Introduction
 
@@ -23,3 +23,4 @@ Therefore, to resolve the problem with the vacuum pump, this repository will sho
 
 ### Reference
 [^1]: https://www.smooth-on.com/tutorials/vacuum-degas-silicone-mold-max-30/
+
